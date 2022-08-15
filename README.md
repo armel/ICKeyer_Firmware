@@ -56,7 +56,7 @@ proxy_url = http://192.168.1.32
 proxy_port = 1234
 ```
 
-> This is a similar structure to the `settings.h` file you used to set up, but in plain text, using a .ini format.  
+> This is a similar structure to the `settings.h file you used to set up, but in plain text, using a .ini format.  
 
 If you're using an IC-7300, here is an another example with this `IC7300USB.ini` :
 
@@ -92,7 +92,7 @@ At startup, you'll see the Ini Loader. Select the `.ini` file you would like to 
 
 # Disclaimers 
 
-Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided to not open the source code of this project, for the moment.
+Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided not to open the source code of this project, for the moment.
 
 I was insulted, threatened and blacklisted by these same people (resellers, youtubers, etc.). And even if I know that the majority is behind me, that's enough. 
 
