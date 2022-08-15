@@ -2,9 +2,13 @@
 ![core2](https://img.shields.io/badge/M5Stack-CORE2-green)
 ![aws](https://img.shields.io/badge/M5Stack-AWS-orange)
 
-**Many thanks to them and all my [donors](#donations)🙏🏻** 
+**First of all, many thanks to all my [donors](#donations)🙏🏻** 
 
 The ICKeyer project allows the IC-705, IC-7300 and IC-9700 produced by ICOM to be equipped with an external touch keyer. This allows you to dedicate the IC screen to the Waterfall while having your Keyer on the M5Stack screen.
+
+# Beta test
+
+For the moment, this project is in private beta test only. 
 
 # Features
 
