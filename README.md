@@ -1,4 +1,4 @@
-# ICKeyer_Firmware
+# ICKeyer Firmware
 ![core2](https://img.shields.io/badge/M5Stack-CORE2-green)
 ![aws](https://img.shields.io/badge/M5Stack-AWS-orange)
 
