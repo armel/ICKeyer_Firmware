@@ -19,7 +19,7 @@ It is possible to change the transmit mode directly from the central button of t
 ![CW](https://github.com/armel/ICKeyer_Firmware/blob/main/img/cw.png)
 ![USB](https://github.com/armel/ICKeyer_Firmware/blob/main/img/usb.png)
 
-Each memory could be play 1 time or infinite time, with a delay. It is possible to stop the tranmission at any time, alway by the central button of the keyer.
+Each memory could be play 1 time or infinite time, with a delay. It is possible to stop the tranmission at any time, always by the central button of the keyer.
 
 ![one](https://github.com/armel/ICKeyer_Firmware/blob/main/img/one.png)
 ![infinit](https://github.com/armel/ICKeyer_Firmware/blob/main/img/infinit.png)
