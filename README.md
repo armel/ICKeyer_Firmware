@@ -24,11 +24,19 @@ This firmware is provided “as is”, without warranty of any kind, express or 
 
 The ICKeyer support Voice and CW memories. It allows you to call up the 8 memories stored in the transceiver. 
 
-It is possible to change the transmit mode directly from the central button of the keyer (FM, USB, LSB, CW). 
+It is possible to change the transmit mode directly from the central button of the keyer (FM, USB, LSB, CW).
+
+![CW](https://github.com/armel/ICKeyer_Firmware/blob/main/img/cw.png)
+![USB](https://github.com/armel/ICKeyer_Firmware/blob/main/img/usb.png)
 
 Each memory could be play 1 time or infinite time, with a delay. It is possible to stop the tranmission at any time, alway by the central button of the keyer.
 
+![one](https://github.com/armel/ICKeyer_Firmware/blob/main/img/one.png)
+![infinit](https://github.com/armel/ICKeyer_Firmware/blob/main/img/infinit.png)
+
 As usual, a settings menu allow you to manage brightness, screensaver, beep level, etc. 
+
+![Menu](https://github.com/armel/ICKeyer_Firmware/blob/main/img/menu.png)
 
 # Settings
 
