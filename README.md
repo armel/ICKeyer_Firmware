@@ -24,7 +24,7 @@ Each memory could be play 1 time or infinite time, with a delay. It is possible 
 ![one](https://github.com/armel/ICKeyer_Firmware/blob/main/img/one.png)
 ![infinit](https://github.com/armel/ICKeyer_Firmware/blob/main/img/infinit.png)
 
-As usual, a settings menu allow you to manage brightness, screensaver, beep level, etc. 
+As usual, a settings menu allows you to manage brightness, screensaver, beep level, etc. 
 
 ![Menu](https://github.com/armel/ICKeyer_Firmware/blob/main/img/menu.png)
 
