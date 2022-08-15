@@ -32,7 +32,7 @@ As usual, a settings menu allows you to manage brightness, screensaver, beep lev
 
 First of all, format a micro SD card in FAT32. 
 
-Then, using a plain text editor, you will create a file that should have the `.ini` extension. for example `IC705BT.ini` if you plain to use the ICKeyer with an IC-705 connect by Bluetooth. 
+Then, using a plain text editor, you will create a file that should have the `.ini` extension. For example `IC705BT.ini` if you plain to use the ICKeyer with an IC-705 connected by Bluetooth. 
 
 And now, here is what you will put in this `IC705BT.ini` :
 
