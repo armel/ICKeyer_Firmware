@@ -6,28 +6,6 @@
 
 The ICKeyer project allows the IC-705, IC-7300 and IC-9700 produced by ICOM to be equipped with an external touch keyer. This allows you to dedicate the IC screen to the Waterfall while having your Keyer on the M5Stack screen.
 
-# Disclaimers 
-
-Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided to not open the source code of this application.
-
-I was insulted, threatened and blacklisted by these same people (resellers, youtubers, etc.). And even if I know that the majority is behind me, that's enough. 
-
-I believe that a small part of the HamRadio community and some resellers are not yet mature enough to understand Open Source.
-
-This being the case, I will make this firmware available for all, but... 
-
-This firmware is copyright (c) 2022 Armel FAUVEAU and covered by the Berne Convention.
-
-THIS FIRMWARE IS NOT ALLOWED TO BE SOLD, IN ANY WAY. 
-
-THIS FIRMWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THIS FIRMWARE OR THE USE OR OTHER DEALINGS IN THIS
-FIRMWARE.
-
 # Features
 
 The ICKeyer support Voice and CW memories. It allows you to call up the 8 memories stored in the transceiver. 
@@ -102,12 +80,33 @@ proxy_port = 1234
 
 Last, you will need to copy these files at the root of the micro SD Card. That's all.
 
-> You are able to put multiple .ini settings files for all your transceivers. I have got 3 of them for my IC-705 in BT mode, my IC-705 in USB mode and my IC-7300 in USB mode. 
+> You are able to put multiple .ini settings files for all your transceivers. I have got 3 of them for my IC-705 in BT mode, my IC-705 in USB mode and my IC-7300 in USB mode. I put them in this repository. 
 
 # Usage
 
 At startup, you'll see the Ini Loader. Select the `.ini` file you would like to load and... enjoy. 
 
+# Disclaimers 
+
+Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided to not open the source code of this application.
+
+I was insulted, threatened and blacklisted by these same people (resellers, youtubers, etc.). And even if I know that the majority is behind me, that's enough. 
+
+I believe that a small part of the HamRadio community and some resellers are not yet mature enough to understand Open Source.
+
+This being the case, I will make this firmware available for all, but... 
+
+This firmware is copyright (c) 2022 Armel FAUVEAU and covered by the Berne Convention.
+
+THIS FIRMWARE IS NOT ALLOWED TO BE SOLD, IN ANY WAY. 
+
+THIS FIRMWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THIS FIRMWARE OR THE USE OR OTHER DEALINGS IN THIS
+FIRMWARE.
 
 # Credits
  
