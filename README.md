@@ -98,7 +98,7 @@ I was insulted, threatened and blacklisted by these same people (resellers, yout
 
 I believe that a small part of the HamRadio community and some resellers are not yet mature enough to understand Open Source.
 
-This being the case, I will make this firmware available for all, but... 
+This being the case, I will make this firmware available for free and for all, but... 
 
 This firmware is copyright (c) 2022 Armel FAUVEAU and covered by the Berne Convention.
 
