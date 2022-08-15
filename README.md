@@ -92,7 +92,7 @@ At startup, you'll see the Ini Loader. Select the `.ini` file you would like to 
 
 # Disclaimers 
 
-Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided to not open the source code of this application.
+Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided to not open the source code of this project, for the moment.
 
 I was insulted, threatened and blacklisted by these same people (resellers, youtubers, etc.). And even if I know that the majority is behind me, that's enough. 
 
