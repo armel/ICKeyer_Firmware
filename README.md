@@ -120,6 +120,7 @@ Many thanks to...
 |:------------------- | :---------------------------------------------------- | :------------------------------------------- |
 | M5Stack             | [M5Stack](https://twitter.com/M5Stack)                | https://github.com/m5stack/M5Stack           |
 | M5Stack-SD-Updater  | [Tobozo](https://twitter.com/TobozoTagada)            | https://github.com/tobozo/M5Stack-SD-Updater |
+| FastLED             | FastLED                                               | https://github.com/FastLED/FastLED           |
 
 Icom and the Icom logo are registered trademarks of Icom Incorporated (Japan) in Japan, the United States, the United Kingdom, Germany, France, Spain, Russia, Australia, New Zealand, and/or other countries.
 
