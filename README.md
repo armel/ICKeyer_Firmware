@@ -19,7 +19,7 @@ It is possible to change the transmit mode directly from the central button of t
 ![CW](https://github.com/armel/ICKeyer_Firmware/blob/main/img/cw.png)
 ![USB](https://github.com/armel/ICKeyer_Firmware/blob/main/img/usb.png)
 
-Each memory could be play 1 time or infinite time, with a delay. It is possible to stop the tranmission at any time, always by the central button of the keyer.
+Each memory can be played once or continuously, with a delay. It is possible to stop the tranmission at any time, always by the central button of the keyer.
 
 ![one](https://github.com/armel/ICKeyer_Firmware/blob/main/img/one.png)
 ![infinit](https://github.com/armel/ICKeyer_Firmware/blob/main/img/infinit.png)
@@ -90,17 +90,23 @@ Last, you will need to copy these files at the root of the micro SD Card. That's
 
 At startup, you'll see the Ini Loader. Select the `.ini` file you would like to load and... enjoy. 
 
+The central button on the keyboard is used to change the mode or to start / stop the transmission of a memory.
+
+The other buttons on the keyboard are used to select a memory. A first press for a single tranmission and a second press for a continuous tranmission, with a delay. 
+
+The middle button at the bottom is used to enter the settings menu. Use the left and right buttons to select an option. And use the middle button again to confirm.
+
 # Disclaimers 
 
 Because of the systematic plundering of my open source projects by a minority of unscrupulous people, taking advantage of my work to make money, I decided not to open the source code of this project, for the moment.
 
-I was insulted, threatened and blacklisted by these same people (resellers, youtubers, etc.). And even if I know that the majority is behind me, that's enough. 
+I was insulted, threatened and blacklisted by these same people (resellers, youtubers, etc.). Some of them think they are little judges. And even if I know that the majority is behind me, that's enough 😔 
 
-I believe that a small part of the HamRadio community and some resellers are not yet mature enough to understand Open Source.
+I believe in Open Source. But I believe too that a small part of the HamRadio community and some resellers are not yet mature enough to understand Open Source.
 
-This being the case, I will make this firmware available for free and for all, but... 
+This being the case, I will make this firmware available for FREE and for ALL, but... 
 
-This firmware is copyright (c) 2022 Armel FAUVEAU and covered by the Berne Convention.
+This firmware is copyright (c) 2022 Armel FAUVEAU, that is to say me F4HWN and covered by the Berne Convention.
 
 THIS FIRMWARE IS NOT ALLOWED TO BE SOLD, IN ANY WAY. 
 
